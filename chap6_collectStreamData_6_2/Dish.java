@@ -1,4 +1,4 @@
-package chap6_collectStreamData.ex2;
+package chap6_collectStreamData_6_2;
 
 public class Dish {
     public enum Type {
