@@ -1,4 +1,4 @@
-package chap6_collectStreamData_6_2;
+package chap6_collectStreamData.collectStreamData_6_2;
 
 import java.util.Arrays;
 import java.util.List;

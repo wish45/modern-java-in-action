@@ -1,4 +1,4 @@
-package chap6_collectStreamData.chap6_collectStreamData_6_2_1;
+package chap6_collectStreamData.collectStreamData_6_2_1;
 
 import java.util.Arrays;
 import java.util.Comparator;
